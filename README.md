@@ -19,7 +19,7 @@ I'm an application developer with over 9+ years of experience in building robust
 
 
 ## 📫 How to reach me
-- [LinkedIn](https://www.linkedin.com/in/ashish-lonare-52a24268/)
+- [LinkedIn](https://www.linkedin.com/in/ashish-lonare/)
 - [Email](mailto:ashish.lonare999@.com)
 
 Feel free to check out my repositories and projects. I'm always open to connecting with fellow developers and collaborating on exciting projects.
