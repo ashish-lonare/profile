@@ -27,7 +27,7 @@ I'm an application developer with over 9+ years of experience in building robust
 
 ## 📄 Resume
 
-<a href="./Ashish_Resume.pdf">Download My Resume</a>
+<a href="https://github.com/ashish-lonare/profile/raw/main/Ashish_Resume.pdf">Download My Resume</a>
 
 Feel free to check out my repositories and projects. I'm always open to connecting with fellow developers and collaborating on exciting projects.
 
