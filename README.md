@@ -1,5 +1,9 @@
 # Hi there, I'm Ashish Lonare 👋
 
+<p align="left">
+  <img src="https://github.com/ashish-lonare.png" width="150" style="border-radius:50%" />
+</p>
+
 I'm an application developer with over 9+ years of experience in building robust and user-friendly applications. My expertise spans across various technologies including React Native, Android, PHP, and Flutter.
 
 ## 🛠 Skills & Expertise
