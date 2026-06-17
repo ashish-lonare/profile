@@ -19,7 +19,7 @@ I'm an application developer with over 9+ years of experience in building robust
 
 ## GitHub Stats
 
-![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashu090990&show_icons=true&theme=tokyonight)
+![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashish-lonare&show_icons=true&theme=tokyonight)
 
 ## 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/ashish-lonare/)
